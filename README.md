@@ -74,4 +74,6 @@ To run the project using Docker:
   
   **DELETE** `/api/v1/books/:id`  
   Deletes the book with the given ID.
+
+Import postman collection from postmanCollection folder to get started!
     
